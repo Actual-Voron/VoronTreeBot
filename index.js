@@ -189,4 +189,4 @@ client.on('messageUpdate', (oldMessage, newMessage) => {
     }
 })
 
-client.login('NDAwMDIzNTY0NzA4ODcyMTky.GLTBwb.DhhWUY2Z2FBRTk5RHExZTc3QlNvdjN5Z2hEeDM5bkRPVms5VlhoUjhlN09RLXdGakF0UnBjWklSWjFrN0pjZkpCR3hUX3hHSXozcFU5LUJY')
+client.l
